@@ -1,4 +1,4 @@
-# exoressscale
+# expressscale
 
 To install dependencies:
 
